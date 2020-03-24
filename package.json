@@ -1,0 +1,10 @@
+{
+  "name": "@noahlt/debug",
+  "version": "1.0.1",
+  "description": "Common debug functions that I use.",
+  "main": "main.js",
+  "repository": "https://github.com/noahlt/js-debug",
+  "author": "Noah Tye <hi@noahtye.com>",
+  "license": "MIT",
+  "private": false
+}
